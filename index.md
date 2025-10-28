@@ -1,18 +1,18 @@
-# 🚀 My Development Journey
+# 🚀 
 
 Welcome to my project portfolio! Here I document my coding adventures, challenges, and solutions.
 
 ## 📂 Projects
 
-### [E-Commerce Dashboard](./projects/ecommerce-dashboard.md)
-- **Tech**: React, Node.js, MongoDB
+### [--](./projects/ecommerce-dashboard.md)
+- **Tech**: --
 - **Status**: In progress
-- **Last Updated**: 2024-11-20
+- **Last Updated**: --
 
-### [Mobile Game AI](./projects/game-ai.md)  
-- **Tech**: Python, TensorFlow
-- **Status**: Completed
-- **Last Updated**: 2024-10-15
+### [--](./projects/game-ai.md)  
+- **Tech**: --
+- **Status**: --
+- **Last Updated**: --
 
 ---
 
